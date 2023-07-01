@@ -3,10 +3,12 @@
 ## Hello, World! 👋
 
 ### I have learned/learning:
-- Basics of C programming
+- Machine Learning with Python
+- Data Analytics
+- C programming
 - C++
 - Game development with Unreal Engine 5
 - Python 
-- Frontend Development with HTML,CSS
+- Frontend Development with HTML, CSS, Javascript
 
 If you want to work together on a project with me, you're just few clicks away.
